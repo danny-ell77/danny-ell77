@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danny-ell77
-- 👀 I’m interested in Software development with Django & React and enabling applications with Machine Learning and Computer Vision
-- 🌱 I’m currently learning React Native and Test Driven Development with Django
-- 💞️ I’m looking to collaborate on more ML projects
+- 👀 I’m interested in Domain Driven Design for Software Development
+- 🌱 I’m experienced with Software development with Python and Golang
 - 📫 How to reach me danielchibuezeolah@gmail.com
 
 <!---
